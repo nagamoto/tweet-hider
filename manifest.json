@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Tweet Hider",
-  "short_name": "TW Hider",
+  "short_name": "Tw Hider",
   "version": "1.0",
   "description": "hide tweet including too many newline characters",
   "page_action": {
